@@ -62,7 +62,7 @@ header {
 header img {
   width: 45px;
   position: relative;
-  bottom: 12px
+  bottom: 12px;
 }
 header a.MENU {
   margin-left: 15px;
@@ -86,7 +86,7 @@ header a.FFind {
 #first-i {
   position: relative;
   bottom: 50px;
-  left: 71.5%;
+  left: 71%;
 }
 .second-header-button:hover {
   background-color: rgb(222, 219, 219);
